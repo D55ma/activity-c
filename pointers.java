@@ -30,5 +30,12 @@ public class Pointers {
         return boolValue;
     } else return null;
 }
+
+
+try {
+    // ...
+} catch(Exception e) {
+  
+}
 	}
 }
